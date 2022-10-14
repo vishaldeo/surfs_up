@@ -60,3 +60,8 @@ This project is for the analysis of temperature trends in Hawaii. The temperatur
  
  
 
+## Summary 
+
+* The average temp of Dec and Jun has ~5 degree change in weather . 
+* The average count of the number of days for `>70 and <=80` temp is higher in Jun months than Dec and is a good sign for adding Ice cream shop . 
+* the Weather temp conditions shouldn't be the creteria for starting of the business we need to study the other factors also ( e.g precipitation ) 
